@@ -3,7 +3,7 @@
 0,SansText,ready?,,,,,,,
 0,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
-0.06666,BlackScreen,0,,,,,,,
+2,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
 0,HeartTeleport,320,304,,,,,,
